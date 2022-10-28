@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1666920312 source:c:\users\admin\desktop\genegoddproyec\genegodd3.0.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funcionesgenerala.h"
+	"rlutil.h"
+
+1666923920 c:\users\admin\desktop\genegoddproyec\funcionesgenerala.h
+	"rlutil.h"
+
+1571569938 c:\users\admin\desktop\genegoddproyec\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
